@@ -1,6 +1,19 @@
-# 914-2022-grupo-5
+# Projeto 2º Bimestre das disciplinas de Infraestrutura e Serviços de Redes (PRIR/SRED e ISRE)
 
-# Tabela
+## Apresentação do Projeto:
+
+- Projeto apresentado à disciplina de PRIR/SRED e ISRE do 4º ano matutino do curso de nível médio/integrado de informática do Instituto Federal de Alagoas - Campus Arapiraca, como requisito avaliativo, sob orientação do professor **Alaelson Jatobá**.
+
+**Grupo 5 composto por:** 
+- Carolina Fernandes
+- Dionísio Barbosa
+- Ewerton Barboza 
+- Giovanna Correia
+
+## Sobre o projeto:
+- Esse projeto tem como objetivo a criação de uma infraestrutura de rede, criação de Máquinas Virtuais e manipulação com o sistema operacional Ubuntu. 
+
+## Tabela
 
 NOME            |  Descrição  |  IP  |  Hostname  |  FQDN  |  Aliase
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
