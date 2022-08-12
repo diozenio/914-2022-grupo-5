@@ -2,7 +2,7 @@
 
 ## Apresentação do Projeto:
 
-- Projeto apresentado à disciplina de PRIR/SRED e ISRE do 4º ano matutino do curso de nível médio/integrado de informática do Instituto Federal de Alagoas - Campus Arapiraca, como requisito avaliativo, sob orientação do professor **Alaelson Jatobá**.
+- Esse projeto é apresentado à disciplina de PRIR/SRED e ISRE do 4º ano matutino do curso de nível médio/integrado de informática do Instituto Federal de Alagoas - Campus Arapiraca, como requisito avaliativo, sob orientação do professor **Alaelson Jatobá**.
 
 **Grupo 5 composto por:** 
 - Carolina Fernandes
