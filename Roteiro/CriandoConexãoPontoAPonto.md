@@ -25,5 +25,9 @@
 	title="Figura 2b: configurações de importação"
   width="400" height= "280"/>
 
+* Instale o pacote Net Tools nas VMs
+```bash
+sudo apt intall net-tools -y
+```
 
   
