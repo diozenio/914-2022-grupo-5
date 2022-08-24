@@ -97,15 +97,15 @@ getent group #lista os grupos
 ### Passo 1 - Obter o arquivo .OVA
 
 * Caso não possua o arquivo .OVA, acesse o link para download: https://we.tl/t-VnOe7GAP3U 
-  - __OBS: Você será direcionado para o `WeTransfer` onde encontrará o arquivo para executar o download__
+  - __OBS: Você será direcionado para o `WeTransfer` onde encontrará o arquivo para executar o download.__
 
 ### Outra forma de fazer: 
 * Verifique se os arquivos existem no diretório /labredes/images/original
-      ```bash
-      - mini.iso
-      - ubuntu-20.04.4-desktop-amd64.iso
-      - ubuntu-22.04-live-server-amd64.iso
-      ```
+    
+  - `mini.iso`<br>
+  - `ubuntu-20.04.4-desktop-amd64.iso`<br>
+  - `ubuntu-22.04-live-server-amd64.iso`<br>
+    
 
 ### Pelo Terminal 
 
