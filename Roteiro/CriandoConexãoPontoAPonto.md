@@ -23,11 +23,17 @@
 	title="Figura 2a: Clique em Arquivo/Importar Apliance" width="400" height="280"/> 
    <img src="../Imagens/import-ova2.png" alt=""
 	title="Figura 2b: configurações de importação"
-  width="400" height= "280"/>
+/>
 
 * Instale o pacote Net Tools nas VMs
 ```bash
 sudo apt intall net-tools -y
 ```
+## Configure as NICs das VMs
 
-  
+* Selecione as configurações de Rede de cada VM para `rede interna` e defina o nome da rede, por exemplo `<labredes>`
+
+* A Figura 3 ilustra as configurações para a importação das VMs: VM1-PC1-Carolina e VM2-PC1-Carolina 
+
+<img src='../Imagens/Captura de tela de 2022-08-09 11-17-18.png '>
+ 
