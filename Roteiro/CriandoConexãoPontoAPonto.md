@@ -8,8 +8,8 @@
 
 * Configure as interfaces de rede dessas MVs como ilustra a topologia de Rede da figura 1
 <p> Figura 1: Topologia de Rede Ponto a Ponto usando o VitualBox, com duas VMs com suas NICs em modo Rede Interna</center></p>   
-   <img src="../Imagens/Captura de tela de 2022-08-09 11-17-18.png" alt=""
-	title="Figura 1: Topologia de Rede Ponto a Ponto" width="800" height="280" />
+   <img src="../Imagens/Captura de tela de 2022-08-09 11-17-18.png"
+	
 
 <br>
 
@@ -19,11 +19,11 @@
   * A Figura 2 Ilustra as configurações para a importação das VMs: VM-LAB01 e VM-LAB02
 
 <p>Figura 2: Criando uma VM apartir de um arquivo OVA</p>   
-   <img src="../Imagens/import-ova1.png" alt=""
-	title="Figura 2a: Clique em Arquivo/Importar Apliance" width="400" height="280"/> 
-   <img src="../Imagens/import-ova2.png" alt=""
-	title="Figura 2b: configurações de importação"
-/>
+   <img src="../Imagens/import-ova1.png"
+	 width="400" height="280"/> 
+   <img src="../Imagens/import-ova2.png"
+	
+
 
 * Instale o pacote Net Tools nas VMs
 ```bash
@@ -36,4 +36,15 @@ sudo apt intall net-tools -y
 * A Figura 3 ilustra as configurações para a importação das VMs: VM1-PC1-Carolina e VM2-PC1-Carolina 
 
 <img src='../Imagens/Captura de tela de 2022-08-09 11-17-18.png '>
- 
+ <br> 
+
+ ## Fazendo o login nas VMs
+   * Abra as duas máquinas virtuais criadas 
+   <img src='../Imagens/Captura de tela de 2022-08-09 10-45-55.png'>
+
+   * Usuário da VM: `administrador`
+   * Senha da VM: `adminifal` 
+   <img src='../Imagens/Captura de tela de 2022-08-09 10-47-41.png'>
+
+## Configuração estática de endereço IP na interface de rede
+  * 
