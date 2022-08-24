@@ -18,9 +18,9 @@
   
   * A Figura 2 Ilustra as configurações para a importação das VMs: VM-LAB01 e VM-LAB02
 
-<p>Figura 2: Criando uma VM apartir de um arquivo OVA</center></p>   
+<p>Figura 2: Criando uma VM apartir de um arquivo OVA</p>   
    <img src="../Imagens/import-ova1.png" alt=""
-	title="Figura 2a: Clique em Arquivo/Importar Apliance" width="400" height="280"/> <br/>
+	title="Figura 2a: Clique em Arquivo/Importar Apliance" width="400" height="280"/> 
    <img src="../Imagens/import-ova2.png" alt=""
 	title="Figura 2b: configurações de importação"
   width="400" height= "280"/>
