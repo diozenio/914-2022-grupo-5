@@ -92,6 +92,13 @@ ls -la #vericando as modificações feitas
 getent group #lista os grupos
 ```
 
+## Para alunos do IFAL
+
+### Passo 1 - Adquirir o arquivo .OVA
+
+(Falta informações)
+
+### Outra forma de fazer: 
 * Verifique se os arquivos existem no diretório /labredes/images/original
 ```bash
 mini.iso
@@ -119,6 +126,5 @@ scp aluno@192.168.101.10:~/Public/iso-images/ubuntu-20.04.4-desktop-amd64.iso /l
 scp aluno@192.168.101.10:~/Public/iso-images/ubuntu-22.04-live-server-amd64.iso /labredes/images/original
 
 ```
-
 
 
