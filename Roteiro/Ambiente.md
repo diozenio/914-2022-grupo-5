@@ -1,5 +1,5 @@
-## Roteiro: Construindo uma infraestrutura de rede
-### 1 - Acessando o usuário redes
+# Roteiro: Construindo uma infraestrutura de rede
+## 1 - Acessando o usuário redes
 - Abra o terminal do Linux
 - Faça o login no usuário redes usando o comando 
 
@@ -20,7 +20,7 @@ $ su redes
     > **Net Tools** é um pacote com várias ferramentas úteis para uso na rede local.
     
 
-### 2 - Manipulando arquivos
+## 2 - Manipulando arquivos
 
 * Comando básicos:
 ```shell
