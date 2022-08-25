@@ -5,6 +5,17 @@
 ```bash
 $ sudo hostnamectl set-hostname nome-do-hostname
 ```
+<div align="center">
+  <p>Figura 1 - Exemplo de criação de um novo hostname</p>
+  <img src="../Imagens/set-hostname.png" />
+  <br><br>
+</div>
+
+<div align="center">
+  <p>Figura 2 - Verificando o hostname</p>
+  <img src="../Imagens/tela3.png" />
+  <br><br>
+</div>
 
 ## 2 - Conectando a máquina à internet
 
@@ -47,11 +58,25 @@ $ ping www.google.com
 $ sudo apt-get install openssh-server
 ```
 
+- Digite "Y" para confirmar a instalação como no exemplo a seguir
+
+<div align="center">
+  <p>Figura 4 - Instalação do SSH Server</p>
+  <img src="../Imagens/instalar-ssh.png" />
+  <br><br>
+</div>
+
 - Verifique o status do ssh para saber se a instalação foi concluída com sucesso
 
 ```bash
 $ systemctl status ssh
 ```
+
+<div align="center">
+  <p>Figura 5 - Status do SSH Server</p>
+  <img src="../Imagens/status-ssh.png" />
+  <br><br>
+</div>
 
 ## 4 - Configurando o Firewall
 
@@ -67,10 +92,31 @@ $ sudo ufw allow ssh.
 $ sudo ufw enable
 ```
 
-## 5 - Acessando uma máquina remotamente
+<div align="center">
+  <p>Figura 6 - Ativação do firewall</p>
+  <img src="../Imagens/tela14.png" />
+  <br><br>
+</div>
+
+## 5 - Acessando uma máquina remotamente <a name="ssh"></a>
 
 - Configure o Netplan para o modo brigde novamente e aplique as alterações 
 - Conecte os computadores utilizando cabos de rede
 - Utilize o comando $ ssh ``<usuario>``@``<ip.do.servidor.remoto>`` para acessar remotamente uma outra máquina
 
-## Exemplo
+<div align="center">
+  <p>Figura 7 - Acessando máquinas remotamente pelo ssh server</p>
+  <img src="../Imagens/acessando-vm2-ssh.png" />
+  <br><br>
+</div>
+
+## 6 - Acessando remotamente a máquina de um computador externo
+
+- Conecta os cabos de rede de um computador para o outro
+- [Acesse a máquina deseja seguindo os passos de conexão com SSH](#shh)
+
+<div align="center">
+  <p>Figura 7 - Acessando uma máquina de outro computador via cabo de rede</p>
+  <img src="../Imagens/ssh-entre-computadores.png" />
+  <br><br>
+</div>
