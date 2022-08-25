@@ -83,7 +83,7 @@ sudo apt intall net-tools -y
   $ sudo netplan apply
   $ ifconfig -a 
   ```
-  <img scr='../Imagens/Captura de tela de 2022-08-09 11-11-56.png'>
+  <img src='../Imagens/Captura de tela de 2022-08-09 11-11-56.png'>
 
   ## Na VM-PC2
   * Após a criação da tabela de Ip's, foi utilizado o IP da Carolina no exemplo: `192.168.14.66`
@@ -97,7 +97,7 @@ sudo apt intall net-tools -y
         gateway4: 192.168.14.64
         dhcp4: false
   ```
-  <img src='../Imagens/Captura de tela de editado.png'> <br>
+  <img src='../Imagens/Captura de tela de editado.png'> 
   
   * Digite `Ctrl + X` para salvar e sair do ambiente de edição do arquivo.
   
@@ -107,4 +107,5 @@ sudo apt intall net-tools -y
   $ sudo netplan apply
   $ ifconfig -a 
   ```
-  <img scr='../Imagens/Captura de editado.png'>
+  
+  <img src='../Imagens/Captura de tela editado.png'>
