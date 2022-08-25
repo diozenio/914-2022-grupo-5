@@ -31,9 +31,6 @@ $ su redes
 * Listar arquivos e pastas
 ```shell
  ls -la #listando todos os arquivos e pastas
- 
- (adicionar informações)
- 
 ```
 * Crie pastas no diretório raiz e subpastas
  - nome da pasta ``labredes``
