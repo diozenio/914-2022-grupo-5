@@ -38,6 +38,6 @@ Tabela 1: Definições de endereços IPs da Rede
 | VM2-PC4-Giovana     | 192.168.14.72   |
 -----------------------------------------
 ```
-
-
+### Configure o endereço IP de acordo com as suas informações estabelecidas. 
+  * Para configurar o endereço IP, acesse <a href='https://github.com/diozenio/914-2022-grupo-5/blob/main/Roteiro/CriandoConex%C3%A3oPontoAPonto.md'>Criando Conexão Ponto A Ponto</a> e vá em **Configuração estática de endereço IP na interface de rede**.
 
