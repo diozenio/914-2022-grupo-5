@@ -16,8 +16,8 @@
     title="Figura 2: Topologia de Rede" width="500" height="auto" />
 
   ### Passo 2 - Faça o login nas máquinas:
-    * Úsuário da VM: `administrador`
-    * Senha da VM: `adminifal`
+   * Úsuário da VM: `administrador`
+   * Senha da VM: `adminifal`
 
   ## Configuração estática de endereço IP na interface de rede 
 ```
