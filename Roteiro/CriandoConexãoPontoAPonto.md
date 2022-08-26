@@ -9,7 +9,7 @@
 * Configure as interfaces de rede dessas MVs como ilustra a topologia de Rede da figura 1
 <p> Figura 1: Topologia de Rede Ponto a Ponto usando o VitualBox, com duas VMs com suas NICs em modo Rede Interna</center></p>   
    <img src="../Imagens/Captura de tela de 2022-08-09 11-17-18.png"
-	
+
 
 <br>
 
@@ -18,11 +18,10 @@
   
   * A Figura 2 Ilustra as configurações para a importação das VMs: VM-LAB01 e VM-LAB02
 
-<p align='center'>Figura 2: Criando uma VM apartir de um arquivo OVA</p>   
-   <div align='>
-	   <img src="../Imagens/import-ova1.png" 
+<p>Figura 2: Criando uma VM apartir de um arquivo OVA</p>   
+<img src="../Imagens/import-ova1.png" 
 		 width="400" height="280" /> 
-	   <img src="../Imagens/import-ova2.png"
+<img src="../Imagens/import-ova2.png"
    </div>
 	
 
