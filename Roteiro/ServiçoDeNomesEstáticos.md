@@ -1,20 +1,20 @@
-       # Projeto 2º Bimestre das disciplinas de Infraestrutura e Serviços de Redes (PRIR/SRED e ISRE)
+ # Projeto 2º Bimestre das disciplinas de Infraestrutura e Serviços de Redes (PRIR/SRED e ISRE)
        
-        <h3>Serviço de Nomes Estático</h3>
+<h3>Serviço de Nomes Estático</h3>
 	
-	### Passo 1 - Acessar os hospedeiros da máquina
+### Passo 1 - Acessar os hospedeiros da máquina
 	
-	* Utilizar o comando 
+* Utilizar o comando 
 	
-	```bash
-	$ sudo nano /etc/hosts
-	```
-	### Passo 2 - Inserir o endereço IP, Hostname, Domínio e Apelido que estão na tabela de cada membro
+```bash
+$ sudo nano /etc/hosts
+```
+### Passo 2 - Inserir o endereço IP, Hostname, Domínio e Apelido que estão na tabela de cada membro
 	
-	<img src='../Imagens/tela23.png'>
-	<p>Figura 1: Configurando os nomes do host estático</p>
+<img src='../Imagens/tela23.png'>
+<p>Figura 1: Configurando os nomes do host estático</p>
 	
-	* Faz-se necessário inserir em cada VM tais dados, afim de utilizar o comando:
+* Faz-se necessário inserir em cada VM tais dados, afim de utilizar o comando:
 	
 	```bash
 	$ ssh <user>@<hostname|fqdn|alias>
