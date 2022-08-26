@@ -62,3 +62,21 @@ Figura: Configuração das NICs como modo `bridge`
   ```
 
   <img src='../Imagens/Captura de tela de 2022-08-09 11-16-04.png'>
+  
+  
+  
+  ### Passo 4 - Ping das máquinas
+  * Ping da VM1-PC1-Carolina para VM2-PC3-Ewerton
+ 
+ 
+  ```bash
+  $ ping 192.168.14.70
+  ```
+  
+  * Ping da VM1-PC3-Ewerton para VM2-PC1-Carolina
+  
+  ```bash
+  $ ping 192.168.14.66
+  ```
+  
+   
