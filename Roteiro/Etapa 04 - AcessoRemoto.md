@@ -118,7 +118,7 @@ $ sudo ufw enable
 ## 6 - Acessando remotamente a máquina de um computador externo
 
 - Conecte os cabos de rede de um computador para o outro
-- [Acesse a máquina deseja seguindo os passos de conexão com SSH](#shh)
+- <a href="#shh">Acesse a máquina deseja seguindo os passos de conexão com SSH</a>
 
 <div align="center">
   <p>Figura 7 - Acessando uma máquina de outro computador via cabo de rede</p>
