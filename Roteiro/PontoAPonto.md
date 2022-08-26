@@ -47,11 +47,16 @@ Tabela 1: Definições de endereços IPs da Rede
 Figura: Configuração das NICs como modo `bridge`
   <img src='../Imagens/placa modo bridge.png'>
 
-  ### Teste a conexão entre as VMs com o comando `ping`
-    * No exemplo abaixo, utilizamos apenas duas máquinas para fazer o teste.
-
-  <img src='../Imagens/Captura de tela de 2022-08-09 11-16-04.png'>
-
+## Teste de conectividade entre as VMs (comando `ping`)
+  ### Teste a conexão entre as VMs do mesmo PC
+  * Ligue as VMs e faça o login
+    * Login `administrador`
+    * Senha `adminifal`
+      
+  > No exemplo abaixo, utilizamos apenas **duas máquinas do mesmo PC** para fazer o teste.
+    
+  * Para realizar o  comando ping digite o comando `ping` e o IP da máquina desejada
+ 
   * Ping da VM1-PC1-Carolina para VM2-PC1-Carolina
   ```bash
   ping 192.168.14.66  #ctrl + c para finalizar o comando
@@ -60,14 +65,15 @@ Figura: Configuração das NICs como modo `bridge`
   ```bash
   ping 192.168.14.65  #ctrl + c para finalizar o comando
   ```
-
   <img src='../Imagens/Captura de tela de 2022-08-09 11-16-04.png'>
   
-  
-  
-  ### Passo 4 - Ping das máquinas
-  * Ping da VM1-PC1-Carolina para VM2-PC3-Ewerton
  
+  ### Teste a conexão entre as VMs de outro PC
+  * Para realziar esse teste, certifique que as onfigurações NICs estão em `Placa modo bridge`
+  * Certifique que as VMs do outro PC, cujo IP deseja usar o comando ping estejam ligadas
+  * Adquira o **Ethernet** e conecte entre os PCs
+  
+  * Ping da VM1-PC1-Carolina para VM2-PC3-Ewerton
  
   ```bash
   $ ping 192.168.14.70
