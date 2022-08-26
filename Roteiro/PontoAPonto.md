@@ -41,3 +41,6 @@ Tabela 1: Definições de endereços IPs da Rede
 ### Configure o endereço IP de acordo com as suas informações estabelecidas. 
   * Para configurar o endereço IP, acesse <a href='https://github.com/diozenio/914-2022-grupo-5/blob/main/Roteiro/CriandoConex%C3%A3oPontoAPonto.md'>Criando Conexão Ponto A Ponto</a> e vá em **Configuração estática de endereço IP na interface de rede**.
 
+## Configurando a rede `bridge` do VirtualBox nos PCs e nas VMs
+  * Abra as configurações de cada VM e mude sua configuraão para `Placa em modo bridge` e seu nome para `eno1`
+
