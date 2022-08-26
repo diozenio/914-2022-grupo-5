@@ -69,12 +69,13 @@ Figura: Configuração das NICs como modo `bridge`
   
  
   ### Teste a conexão entre as VMs de outro PC
-  * Para realziar esse teste, certifique que as onfigurações NICs estão em `Placa modo bridge`
+  * Para realizar esse teste, certifique que as configurações NICs estão em `Placa modo bridge`
   * Certifique que as VMs do outro PC, cujo IP deseja usar o comando ping estejam ligadas
   * Adquira o **Ethernet** e conecte entre os PCs
-  
-  <img src='../Imagens/IMG_0130.HEIC'>
-  
+
+    <img src='../Imagens/IMG_0130.png'>
+    
+    <br>
   * Ping da VM1-PC1-Carolina para VM2-PC3-Ewerton
  
   ```bash
