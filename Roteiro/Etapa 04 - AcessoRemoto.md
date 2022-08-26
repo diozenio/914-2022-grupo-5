@@ -103,7 +103,9 @@ $ sudo ufw enable
   <br><br>
 </div>
 
-## 5 - Acessando uma máquina remotamente <div id="ssh"></div>
+<div id="ssh">
+## 5 - Acessando uma máquina remotamente 
+</div>
 
 - Configure o Netplan para o modo brigde novamente e aplique as alterações 
 - Conecte os computadores utilizando cabos de rede
