@@ -45,12 +45,12 @@ Tabela 1: Definições de endereços IPs da Rede
   * Abra as configurações de cada VM e mude sua configuraão para `Placa em modo bridge` e seu nome para `eno1`
 
 Figura: Configuração das NICs como modo `bridge`
-  <img src='placa modo bridge.png'>
+  <img src='../Imagens/placa modo bridge.png'>
 
   ### Teste a conexão entre as VMs com o comando `ping`
     * No exemplo abaixo, utilizamos apenas duas máquinas para fazer o teste.
 
-  <img src='Captura de tela de 2022-08-09 11-16-04.png'>
+  <img src='../Imagens/Captura de tela de 2022-08-09 11-16-04.png'>
 
   * Ping da VM1-PC1-Carolina para VM2-PC1-Carolina
   ```bash
@@ -61,4 +61,4 @@ Figura: Configuração das NICs como modo `bridge`
   ping 192.168.14.65  #ctrl + c para finalizar o comando
   ```
 
-  <img src='Captura de tela 2022-08-09 11-16-04.png'>
+  <img src='../Imagens/Captura de tela de 2022-08-09 11-16-04.png'>
