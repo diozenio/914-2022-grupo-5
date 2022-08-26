@@ -51,6 +51,11 @@ $ ifconfig -a
 ```bash
 $ ping www.google.com
 ```
+<div align="center">
+  <p>Figura 3 - Verificando o conexão de internet com o comando ping</p>
+  <img src="../Imagens/PING.png" />
+  <br><br>
+</div>
 
 ## 3 - Instalando o SSH Server
 
@@ -113,7 +118,7 @@ $ sudo ufw enable
 ## 6 - Acessando remotamente a máquina de um computador externo
 
 - Conecte os cabos de rede de um computador para o outro
-- [Acesse a máquina desejada seguindo os passos de conexão com SSH](#shh)
+- [Acesse a máquina deseja seguindo os passos de conexão com SSH](#shh)
 
 <div align="center">
   <p>Figura 7 - Acessando uma máquina de outro computador via cabo de rede</p>
