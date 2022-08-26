@@ -19,9 +19,9 @@
   * A Figura 2 Ilustra as configurações para a importação das VMs: VM-LAB01 e VM-LAB02
 
 <p>Figura 2: Criando uma VM apartir de um arquivo OVA</p>   
-<img src='../IMG_4941.HEIC' 
+<img src="../Imagens/IMG_4941.HEIC" 
 		 width="400" height="280" /> 
-<img src='../Imagens/Captura de tela de 2022-08-09 10-37-49.png'
+<img src="../Imagens/Captura de tela de 2022-08-09 10-37-49.png"/>
    </div>
 	
 
