@@ -111,3 +111,24 @@ sudo apt intall net-tools -y
   ```
   
   <img src='../Imagens/Captura de tela editado.png'>
+  
+  ### Passo 3 - Colocar em modo bridge
+   * Conectar os cabos Ethernet nos PCs e configurar a placa de rede para modo Bridge.
+   
+   <img src='../Imagens/placa modo bridge.png'>
+   
+  ### Passo 4 - Ping das máquinas
+  * Ping da VM1-PC1-Carolina para VM2-PC3-Ewerton
+ 
+ 
+  ```bash
+  $ ping 192.168.14.70
+  ```
+  
+  * Ping da VM1-PC3-Ewerton para VM2-PC1-Carolina
+  
+  ```bash
+  $ ping 192.168.14.66
+  ```
+  
+   
