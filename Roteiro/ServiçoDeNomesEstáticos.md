@@ -1,6 +1,6 @@
  # Projeto 2º Bimestre das disciplinas de Infraestrutura e Serviços de Redes (PRIR/SRED e ISRE)
        
-<h3>Serviço de Nomes Estático</h3>
+## Serviço de Nomes Estático
 	
 ### Passo 1 - Acessar os hospedeiros da máquina
 	
@@ -54,7 +54,7 @@ $ sudo nano /etc/hosts
 	<img src='../Imagens/tela28.png'>
 	<p>Figura 6: Consultando os usuários adicionados</p>
 	
-	<h3>Utilizando o SSH na prática via Domínio</h3>
+	## Utilizando o SSH na prática via Domínio
 	
 	### Passo 1 - Para conectar-se com os usuários de outras máquinas virtuais deve-se utilizar o comando:
 	
