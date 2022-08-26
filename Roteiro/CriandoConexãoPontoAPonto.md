@@ -19,9 +19,9 @@
   * A Figura 2 Ilustra as configurações para a importação das VMs: VM-LAB01 e VM-LAB02
 
 <p>Figura 2: Criando uma VM apartir de um arquivo OVA</p>   
-<img src="../Imagens/import-ova1.png" 
+<img src='../IMG_4941.HEIC' 
 		 width="400" height="280" /> 
-<img src="../Imagens/import-ova2.png"
+<img src='../Imagens/Captura de tela de 2022-08-09 10-37-49.png'
    </div>
 	
 
@@ -116,4 +116,18 @@ sudo apt intall net-tools -y
    
    <img src='../Imagens/placa modo bridge.png'>
    
+  ### Passo 4 - Ping das máquinas
+  * Ping da VM1-PC1-Carolina para VM2-PC3-Ewerton
+ 
+ 
+  ```bash
+  $ ping 192.168.14.70
+  ```
   
+  * Ping da VM1-PC3-Ewerton para VM2-PC1-Carolina
+  
+  ```bash
+  $ ping 192.168.14.66
+  ```
+  
+   
