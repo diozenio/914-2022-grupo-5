@@ -65,4 +65,6 @@ $ sudo nano /etc/hosts
 	<img src='../Imagens/tela29.png'>
 	<p>Figura 7: Acessando o usuário Carolina da VM1 do PC3-Ewerton</p>
 	
+	<br>
+	
 	> ## <a href="https://github.com/diozenio/914-2022-grupo-5">Voltar ao início<a/>  
