@@ -2,3 +2,15 @@
 - [ ] Organizar ordem do roteiro e da apresentação
 - [ ] Remover as imagens desnecessárias
 - [ ] Adicionar a topologia de rede
+- [ ] Reorganizar etapa 07
+
+
+
+# Passos
+
+- [ ] Configuração do computador
+- [ ] Configuração e criação no VBox
+- [ ] Instalação dentro das VM's
+- [ ] SSH / Hostonly
+- [ ] Criação de usuários
+- [ ] Conexão de todos os computadores
