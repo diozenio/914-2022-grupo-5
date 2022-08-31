@@ -134,7 +134,7 @@ sudo apt intall net-tools -y
    
    <img src='../Imagens/placa modo bridge.png'>
    
-  ### Passo 4 - Ping das máquinas
+  ### Passo extra - Ping das máquinas
   * Ping da VM1-PC1-Carolina para VM2-PC3-Ewerton
  
  
