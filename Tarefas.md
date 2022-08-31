@@ -3,6 +3,7 @@
 - [ ] Remover as imagens desnecessárias
 - [ ] Adicionar a topologia de rede
 - [ ] Reorganizar etapa 07
+- [ ] Colocar o link da etapa 07 no final da etapa 06 
 
 
 
