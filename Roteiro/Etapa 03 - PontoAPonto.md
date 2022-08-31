@@ -80,7 +80,6 @@ Figura: Configuração das NICs como modo `bridge`
     
     <br>
 
-# Passo extra
   * Ping da VM1-PC1-Carolina para VM2-PC3-Ewerton
  
   ```bash
