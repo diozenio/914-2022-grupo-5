@@ -20,7 +20,7 @@
 - Abra as configurações de rede da VM HostOnly
 
 <div align="center">
-  <p>Figura 2 - Configurando o adaptador 2 na VM</p>
+  <p>Figura 3 - Configurando o adaptador 2 na VM</p>
   <img src="../Imagens/adaptador2.png" />
   <br><br>
 </div>
@@ -33,7 +33,7 @@ $ sudo nano /etc/netplan/01-netcfg.yaml
 ```
 
 <div align="center">
-  <p>Figura 3 - Configurando netplan</p>
+  <p>Figura 4 - Configurando netplan</p>
   <img src="../Imagens/netplan-adaptador2.png" />
   <br><br>
 </div>
@@ -52,7 +52,7 @@ $ ssh administrador@192.168.56.101
 ```
 
 <div align="center">
-  <p>Figura 4 - Acessando a VM 2</p>
+  <p>Figura 5 - Acessando a VM 2</p>
   <img src="../Imagens/acessando-hostonly.png" />
   <br><br>
 </div>
@@ -67,7 +67,7 @@ $ ssh administrador@<ip.da.vm.destino>
 ```
 
 <div align="center">
-  <p>Figura 5 - Acessando a VM do outro computador conectado</p>
+  <p>Figura 6 - Acessando a VM do outro computador conectado</p>
   <img src="../Imagens/hostonly-computador2.png" />
   <br><br>
 </div>
