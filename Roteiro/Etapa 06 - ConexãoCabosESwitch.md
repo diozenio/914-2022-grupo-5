@@ -60,32 +60,32 @@
 
 ## Passo 07 - Conecte os cabos nas portas do switch
 <div align='center'>
-  <p>Figura 8 - Conectando os cabos nas portas</p>
+  <p>Figura 9 - Conectando os cabos nas portas</p>
   <img src='../Imagens/IMG_0126.png' />
   <br><br>
 </div>
 
 <div align='center'>
-  <p>Figura 9 - Conectando os cabos nas portas</p>
+  <p>Figura 10 - Conectando os cabos nas portas</p>
   <img src='../Imagens/IMG_0125.png' />
   <br><br>
 </div>
 
 <div align='center'>
-  <p>Figura 10 - Cabos conectados nas portas</p>
+  <p>Figura 11 - Cabos conectados nas portas</p>
   <img src='../Imagens/IMG_0121.png' />
   <br><br>
 </div>
 
 ## Passo 08 - Verifique se as luzes das portas estão ligadas
 <div align='center'>
-  <p>Figura 5 - Switch funcionando</p>
+  <p>Figura 12 - Switch funcionando</p>
   <img src='../Imagens/IMG_0124.png' />
   <br><br>
 </div>
 
 <div align='center'>
-  <p>Figura 7 - Switch funcionando</p>
+  <p>Figura 13 - Switch funcionando</p>
   <img src='../Imagens/IMG_0122.png' />
   <br><br>
 </div>
