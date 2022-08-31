@@ -2,8 +2,6 @@
 
 ## Criando Máquinas Virtuais (rede ponto a ponto)
 
-* Verifique a existência do VirtualBox
-  - Caso não haja, acesse o link e faça o download: https://www.virtualbox.org/wiki/Downloads
 
 
 * Configure as interfaces de rede dessas MVs como ilustra a topologia de Rede da figura 1
@@ -39,13 +37,17 @@ sudo apt intall net-tools -y
 <img src='../Imagens/Captura de tela de 2022-08-09 11-17-18.png '>
  <br> 
 <img src='../Imagens/Captura de tela de 2022-08-09 10-45-55.png'>
- ## Fazendo o login nas VMs
-   * Abra as duas máquinas virtuais criadas 
-   <img src='../Imagens/Captura de tela de 2022-08-09 10-45-55.png'><img src='../Imagens/Captura de tela de 2022-08-09 10-45-55.png'>
 
-   * Usuário da VM: `administrador`
-   * Senha da VM: `adminifal` 
-   <img src='../Imagens/Captura de tela de 2022-08-09 10-47-41.png'>
+ ## Fazendo o login nas VMs
+
+* Abra as duas máquinas virtuais criadas 
+
+<img src='../Imagens/Captura de tela de 2022-08-09 10-45-55.png'><img src='../Imagens/Captura de tela de 2022-08-09 10-45-55.png'>
+
+* Usuário da VM: `administrador`
+* Senha da VM: `adminifal` 
+
+<img src='../Imagens/Captura de tela de 2022-08-09 10-47-41.png'>
 
 ## Configuração estática de endereço IP na interface de rede
   ### Passo 1 - Acesse as interfaces de rede
