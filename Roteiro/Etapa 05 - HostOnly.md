@@ -12,7 +12,7 @@
 
 <div align="center">
   <p>Figura 2 - Configurando o DHCP4 do adaptador vboxnet0</p>
-  <img src="../Imagens/etapa5-configurando-dhcp4.png.png" />
+  <img src="../Imagens/etapa5-configurando-dhcp4.png" />
   <br><br>
 </div>
 
