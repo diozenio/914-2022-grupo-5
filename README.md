@@ -33,6 +33,11 @@ Giovana   |   VM2-PC4-Giovana  | 192.168.14.72 | giovana2 | grupo5-914.ifalara.n
 | 512MB   |      1        |      10GB       | Ubuntu (64-bit)     |
 
 
+## Topologia da rede
+
+<img src="Imagens/TopologiadeRede.png" />
+
+
 ## Passo a passo
 
 Também criamos um roteiro para ajudar na criação e configuração das máquinas. <a href="./Roteiro/Etapa 00 - BaixandoArquivosNecessarios.md">Clique aqui para começar.</a>
