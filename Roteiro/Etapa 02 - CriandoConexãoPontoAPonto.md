@@ -6,7 +6,7 @@
 
 * Configure as interfaces de rede dessas MVs como ilustra a topologia de Rede da figura 1
 <p> Figura 1: Topologia de Rede Ponto a Ponto usando o VitualBox, com duas VMs com suas NICs em modo Rede Interna</center></p>   
-   <img src="../Imagens/criandomv.1.png"
+   <img src="../Imagens/etapa2-criandomv.1.png"
 
 
 <br>
@@ -17,16 +17,16 @@
   * A Figura 2 Ilustra as configurações para a importação das VMs: VM-LAB01 e VM-LAB02
 
 <p>Figura 2: Criando uma VM apartir de um arquivo OVA</p>   
-<img src="../Imagens/WhatsApp Image 2022-08-31 at 07.40.11.jpeg" 
+<img src="../Imagens/etapa2-criandomv.2.png" 
 		 width="400" height="280" /> 
-<img src="../Imagens/criandomv.2.png"/>
+<img src="../Imagens/etapa2-criandomv.2.1.png"/>
    </div>
 	
 
 
 * Instale o pacote Net Tools nas VMs
 ```bash
-sudo apt intall net-tools -y
+sudo apt install net-tools -y
 ```
 ## Configure as NICs das VMs
 
@@ -34,18 +34,18 @@ sudo apt intall net-tools -y
 
 * A Figura 3 ilustra as configurações para a importação das VMs: VM1-PC1-Carolina e VM2-PC1-Carolina 
 
-<img src='../Imagens/criandomv.3.png '>
+<img src='../Imagens/etapa2-criandomv.3.png '>
  <br> 
 
 
  ## Fazendo o login nas VMs
 
    * Abra as duas máquinas virtuais criadas 
-   <img src='../Imagens/criandomv.4.png'>
+   <img src='../Imagens/etapa2-criandomv.4.png'>
 
    * Usuário da VM: `administrador`
    * Senha da VM: `adminifal` 
-   <img src='../Imagens/criandomv.5.png'>
+   <img src='../Imagens/etapa2-criandomv.5.png'>
 
 ## Configuração estática de endereço IP na interface de rede
   ### Passo 1 - Acesse as interfaces de rede
@@ -53,7 +53,7 @@ sudo apt intall net-tools -y
   * Digite o comando `ls -la /etc/netplan/` para verificar o nome correto do arquivo no seu servidor.
    > __/etc/netplan/__ é a pasta onde o arquivo se encontra
   * No exemplo abaixo, foi utilizado o arquivo *01-netcfg.yaml*
-  <img scr='../Imagens/Capture de tela de 2022-08-09 10-49-23.png'> 
+  <img scr='../Imagens/etapa2-criandomv.5.1.png'> 
   
 
 ### Passo 2 - Edite o arquivo 
@@ -61,7 +61,7 @@ sudo apt intall net-tools -y
   ```bash
   $ sudo nano /etc/netplan/01-netcfg.yaml
   ```
-  <img src='../Imagens/criandomv.6.png'>
+  <img src='../Imagens/etapa2-criandomv.6.png'>
 
 ## Na VM-PC1
   * Após a criação da tabela de Ip's, foi utilizado o IP da Carolina no exemplo: `192.168.14.65`
@@ -75,7 +75,7 @@ sudo apt intall net-tools -y
         gateway4: 192.168.14.64
         dhcp4: false
   ```
-  <img src='../Imagens/Captura de tela de 2022-08-09 10-59-30.png'> <br>
+  <img src='../Imagens/etapa2-criandomv.7.png'> <br>
   
   * Digite `Ctrl + X` para salvar e sair do ambiente de edição do arquivo.
   
@@ -85,7 +85,7 @@ sudo apt intall net-tools -y
   $ sudo netplan apply
   $ ifconfig -a 
   ```
-  <img src='../Imagens/Captura de tela de 2022-08-09 11-11-56.png'>
+  <img src='../Imagens/etapa2-criandomv.8.png'>
 
   ## Na VM-PC2
   * Após a criação da tabela de Ip's, foi utilizado o IP da Carolina no exemplo: `192.168.14.66`
@@ -99,7 +99,7 @@ sudo apt intall net-tools -y
         gateway4: 192.168.14.64
         dhcp4: false
   ```
-  <img src='../Imagens/Captura de tela de editado.png'> 
+  <img src='../Imagens/etapa2-criandomv.9.png'> 
   
   * Digite `Ctrl + X` para salvar e sair do ambiente de edição do arquivo.
   
@@ -110,12 +110,12 @@ sudo apt intall net-tools -y
   $ ifconfig -a 
   ```
   
-  <img src='../Imagens/Captura de tela editado.png'>
+  <img src='../Imagens/etapa2-criandomv.10.png'>
   
   ### Passo 3 - Colocar em modo bridge
    * Conectar os cabos Ethernet nos PCs e configurar a placa de rede para modo Bridge.
    
-   <img src='../Imagens/placa modo bridge.png'>
+   <img src='../Imagens/etapa2-criandomv.11.png'>
    
 #
 # Extra
