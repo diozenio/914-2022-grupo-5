@@ -6,7 +6,7 @@
 
 * Configure as interfaces de rede dessas MVs como ilustra a topologia de Rede da figura 1
 <p> Figura 1: Topologia de Rede Ponto a Ponto usando o VitualBox, com duas VMs com suas NICs em modo Rede Interna</center></p>   
-   <img src="../Imagens/Captura de tela de 2022-08-09 11-17-18.png"
+   <img src="../Imagens/criandomv.1.png"
 
 
 <br>
@@ -19,7 +19,7 @@
 <p>Figura 2: Criando uma VM apartir de um arquivo OVA</p>   
 <img src="../Imagens/IMG_4941.png" 
 		 width="400" height="280" /> 
-<img src="../Imagens/Captura de tela de 2022-08-09 10-37-49.png"/>
+<img src="../Imagens/criandomv.2.png"/>
    </div>
 	
 
@@ -34,13 +34,28 @@ sudo apt intall net-tools -y
 
 * A Figura 3 ilustra as configurações para a importação das VMs: VM1-PC1-Carolina e VM2-PC1-Carolina 
 
-<img src='../Imagens/Captura de tela de 2022-08-09 11-17-18.png '>
+<img src='../Imagens/criandomv.3.png '>
  <br> 
+<<<<<<< HEAD
+
+=======
 <img src='../Imagens/Captura de tela de 2022-08-09 10-45-55.png'>
 
+>>>>>>> dc12dd044d9fadc4b94b0dc6dccccac580ef9dc0
  ## Fazendo o login nas VMs
+<<<<<<< HEAD
+   * Abra as duas máquinas virtuais criadas 
+   <img src='../Imagens/criandomv.4.png'>
+=======
+>>>>>>> dc12dd044d9fadc4b94b0dc6dccccac580ef9dc0
 
+<<<<<<< HEAD
+   * Usuário da VM: `administrador`
+   * Senha da VM: `adminifal` 
+   <img src='../Imagens/criandomv.5.png'>
+=======
 * Abra as duas máquinas virtuais criadas 
+>>>>>>> dc12dd044d9fadc4b94b0dc6dccccac580ef9dc0
 
 <img src='../Imagens/Captura de tela de 2022-08-09 10-45-55.png'><img src='../Imagens/Captura de tela de 2022-08-09 10-45-55.png'>
 
@@ -63,7 +78,7 @@ sudo apt intall net-tools -y
   ```bash
   $ sudo nano /etc/netplan/01-netcfg.yaml
   ```
-  <img src='../Imagens/Captura de tela de 2022-08-09 10-45-55.png'>
+  <img src='../Imagens/criandomv.6.png'>
 
 ## Na VM-PC1
   * Após a criação da tabela de Ip's, foi utilizado o IP da Carolina no exemplo: `192.168.14.65`
