@@ -34,7 +34,7 @@ Tabela 1: Definições de endereços IPs da Rede
 
 <div align="center">
   <p>Figura 1: Configuração das NICs como modo `bridge`</p>
-  <img src='../Imagens/placa modo bridge.png'>
+  <img src='../Imagens/etapa3-colocando-em-modo-bridge.png'>
   <br><br>
 </div>
 
@@ -58,7 +58,7 @@ Tabela 1: Definições de endereços IPs da Rede
   ```bash
   ping 192.168.14.65  #ctrl + c para finalizar o comando
   ```
-  <img src='../Imagens/Captura de tela de 2022-08-09 11-16-04.png'>
+  <img src='../Imagens/etapa3-ping.png'>
   
  
   ### Teste a conexão entre as VMs de outro PC
@@ -66,7 +66,7 @@ Tabela 1: Definições de endereços IPs da Rede
   * Certifique que as VMs do outro PC, cujo IP deseja usar o comando ping estejam ligadas
   * Adquira o **Ethernet** e conecte entre os PCs
 
-    <img src='../Imagens/IMG_0130.png'>
+    <img src='../Imagens/etapa3-cabo-ethernet.png'>
     
     <br>
 
