@@ -124,7 +124,7 @@ $ sudo ufw enable
 - <a href="#ssh">Acesse a máquina deseja seguindo os passos de conexão com SSH</a>
 
 <div align="center">
-  <p>Figura 7 - Acessando uma máquina de outro computador via cabo de rede</p>
+  <p>Figura 8 - Acessando uma máquina de outro computador via cabo de rede</p>
   <img src="../Imagens/ssh-entre-computadores.png" />
   <br><br>
 </div>
