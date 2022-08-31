@@ -12,8 +12,7 @@
 
 
   <p><center> Figura 1: Topologia de Rede Ponto a Ponto usando o VitualBox, com duas VMs com suas NICs em modo Rede Interna</center></p>   
-    <img src="figuresBridgeNetwork/BridgeNetwork.png" alt=""
-    title="Figura 2: Topologia de Rede" width="500" height="auto" />
+    <img src="../Imagens/criandomv.1.png"
 
   ### Passo 2 - Faça o login nas máquinas:
    * Úsuário da VM: `administrador`
