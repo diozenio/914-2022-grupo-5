@@ -7,13 +7,13 @@ $ sudo hostnamectl set-hostname nome-do-hostname
 ```
 <div align="center">
   <p>Figura 1 - Exemplo de criação de um novo hostname</p>
-  <img src="../Imagens/set-hostname.png" />
+  <img src="../Imagens/etapa4-set-hostname.1.png" />
   <br><br>
 </div>
 
 <div align="center">
   <p>Figura 2 - Verificando o hostname</p>
-  <img src="../Imagens/tela3.png" />
+  <img src="../Imagens/etapa4-configurandohostname.2.png" />
   <br><br>
 </div>
 
@@ -53,7 +53,7 @@ $ ping www.google.com
 ```
 <div align="center">
   <p>Figura 3 - Verificando o conexão de internet com o comando ping</p>
-  <img src="../Imagens/PING.png" />
+  <img src="../Imagens/etapa4-PING.3.png" />
   <br><br>
 </div>
 
@@ -67,7 +67,7 @@ $ sudo apt-get install openssh-server
 
 <div align="center">
   <p>Figura 4 - Instalação do SSH Server</p>
-  <img src="../Imagens/instalar-ssh.png" />
+  <img src="../Imagens/etapa4-instalar-ssh.4.png" />
   <br><br>
 </div>
 
@@ -79,7 +79,7 @@ $ systemctl status ssh
 
 <div align="center">
   <p>Figura 5 - Status do SSH Server</p>
-  <img src="../Imagens/status-ssh.png" />
+  <img src="../Imagens/etapa4-status-ssh.5.png" />
   <br><br>
 </div>
 
@@ -99,7 +99,7 @@ $ sudo ufw enable
 
 <div align="center">
   <p>Figura 6 - Ativação do firewall</p>
-  <img src="../Imagens/tela14.png" />
+  <img src="../Imagens/etapa4-ativacaodofirewall.6.png" />
   <br><br>
 </div>
 
@@ -114,7 +114,7 @@ $ sudo ufw enable
 
 <div align="center">
   <p>Figura 7 - Acessando máquinas remotamente pelo ssh server</p>
-  <img src="../Imagens/acessando-vm2-ssh.png" />
+  <img src="../Imagens/etapa4-acessando-vm2-ssh.7.png" />
   <br><br>
 </div>
 
@@ -125,7 +125,7 @@ $ sudo ufw enable
 
 <div align="center">
   <p>Figura 8 - Acessando uma máquina de outro computador via cabo de rede</p>
-  <img src="../Imagens/ssh-entre-computadores.png" />
+  <img src="../Imagens/etapa4-ssh-entre-computadores.8.png" />
   <br><br>
 </div>
 
