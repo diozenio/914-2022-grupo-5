@@ -12,9 +12,11 @@ $ sudo nano /etc/hosts
 
 ### Passo 2 - Inserir o endereço IP, Hostname, Domínio e Apelido que estão na tabela de cada membro
 
-<p>Figura 1: Configurando os nomes do host estático</p>
-<img src='../Imagens/etapa7-IP-hostname-Dom-Apel.png'>
-
+<div align="center">
+  <p>Figura 1: Configurando os nomes do host estático</p>
+  <img src='../Imagens/etapa7-IP-hostname-Dom-Apel.png'>
+  <br><br>
+</div>
 	
 * Faz-se necessário inserir em cada VM tais dados, afim de utilizar o comando:
 	
