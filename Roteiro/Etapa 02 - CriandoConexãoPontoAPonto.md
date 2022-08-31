@@ -36,33 +36,16 @@ sudo apt intall net-tools -y
 
 <img src='../Imagens/criandomv.3.png '>
  <br> 
-<<<<<<< HEAD
 
-=======
-<img src='../Imagens/Captura de tela de 2022-08-09 10-45-55.png'>
 
->>>>>>> dc12dd044d9fadc4b94b0dc6dccccac580ef9dc0
  ## Fazendo o login nas VMs
-<<<<<<< HEAD
+
    * Abra as duas máquinas virtuais criadas 
    <img src='../Imagens/criandomv.4.png'>
-=======
->>>>>>> dc12dd044d9fadc4b94b0dc6dccccac580ef9dc0
 
-<<<<<<< HEAD
    * Usuário da VM: `administrador`
    * Senha da VM: `adminifal` 
    <img src='../Imagens/criandomv.5.png'>
-=======
-* Abra as duas máquinas virtuais criadas 
->>>>>>> dc12dd044d9fadc4b94b0dc6dccccac580ef9dc0
-
-<img src='../Imagens/Captura de tela de 2022-08-09 10-45-55.png'><img src='../Imagens/Captura de tela de 2022-08-09 10-45-55.png'>
-
-* Usuário da VM: `administrador`
-* Senha da VM: `adminifal` 
-
-<img src='../Imagens/Captura de tela de 2022-08-09 10-47-41.png'>
 
 ## Configuração estática de endereço IP na interface de rede
   ### Passo 1 - Acesse as interfaces de rede
