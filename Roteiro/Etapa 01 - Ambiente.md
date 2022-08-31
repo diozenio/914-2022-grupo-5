@@ -1,6 +1,7 @@
 # Roteiro: Construindo uma infraestrutura de rede
-## 1 - Acessando o usuário redes
+## 1 - Adicionando o usuário redes
 - Abra o terminal do Linux
+- Utilize o comando ```sudo adduser redes```
 - Faça o login no usuário redes usando o comando 
 
 ```shell
@@ -10,7 +11,7 @@
 ``` 
 
 * logar com o usuário ``redes`` 
-* senha ``admin@Lab92``
+* senha ``admin@Lab92`` (para alunos do IFAL)
 
 ```bash
 $ su redes
@@ -53,10 +54,8 @@ $ su redes
 ```bash
  cd /
  mkdir labredes/VM
- mkdir labredes/VM/9{turno,ano}
- mkdir labredes/VM/9{turno,ano}/<student> # substitua <student> pelo seu nome
 ```
-* Adicione o usuário ``aluno`` ao grupo ``redes``
+* Adicione o usuário ``aluno`` (ou o seu usuário) ao grupo ``redes``
 ```bash
  sudo usermod -aG redes aluno
 ```
