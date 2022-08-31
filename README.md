@@ -13,7 +13,7 @@
 ## Sobre o projeto:
 - Esse projeto tem como objetivo a criação de uma infraestrutura de rede, criação de Máquinas Virtuais e manipulação com o sistema operacional Ubuntu. 
 
-## Tabela
+## Informações de cada máquina
 
 NOME            |  Descrição  |  IP  |  Hostname  |  FQDN  |  Aliase
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -26,3 +26,13 @@ Ewerton   |   VM2-PC3-Ewerton  | 192.168.14.70 | ewerton2 | grupo5-914.ifalara.n
 Giovana   |   VM1-PC4-Giovana  | 192.168.14.71 | giovana1 | grupo5-914.ifalara.net |  giovana1 | 
 Giovana   |   VM2-PC4-Giovana  | 192.168.14.72 | giovana2 | grupo5-914.ifalara.net  |  giovana2 | 
 
+## Configurações de hardware
+
+| Memória RAM | CPU | Espaço em disco | Sistema Operacional |
+|---------|---------------|-----------------|---------------------|
+| 512MB   |      1        |      10GB       | Ubuntu (64-bit)     |
+
+
+## Passo a passo
+
+Também criamos um roteiro para ajudar na criação e configuração das máquinas. <a href="./Roteiro/Etapa 01 - Ambiente.md">Clique aqui para começar.</a>
