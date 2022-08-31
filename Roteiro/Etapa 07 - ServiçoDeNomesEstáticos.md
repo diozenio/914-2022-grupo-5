@@ -1,16 +1,17 @@
- # Projeto 2º Bimestre das disciplinas de Infraestrutura e Serviços de Redes (PRIR/SRED e ISRE)
-       
+# Projeto 2º Bimestre das disciplinas de Infraestrutura e Serviços de Redes (PRIR/SRED e ISRE)
+
 ## Serviço de Nomes Estático
-	
+
 ### Passo 1 - Acessar os hospedeiros da máquina
-	
-* Utilizar o comando 
-	
+
+- Utilizar o comando
+
 ```bash
 $ sudo nano /etc/hosts
 ```
+
 ### Passo 2 - Inserir o endereço IP, Hostname, Domínio e Apelido que estão na tabela de cada membro
-	
+
 <img src='../Imagens/tela23.png'>
 <p>Figura 1: Configurando os nomes do host estático</p>
 	
@@ -64,4 +65,4 @@ $ sudo nano /etc/hosts
 	<img src='../Imagens/tela29.png'>
 	<p>Figura 7: Acessando o usuário Carolina da VM1 do PC3-Ewerton</p>
 	
-	
+	  > ## <a href="https://github.com/diozenio/914-2022-grupo-5">Voltar ao início<a/>

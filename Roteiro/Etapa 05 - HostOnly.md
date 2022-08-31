@@ -72,3 +72,4 @@ $ ssh administrador@<ip.da.vm.destino>
   <br><br>
 </div>
 
+  > ## <a href="./Etapa 07 - ServiçoDeNomesEstáticos.md">Próxima etapa<a/>

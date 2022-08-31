@@ -49,7 +49,6 @@ Tabela 1: Definições de endereços IPs da Rede
   <img src='../Imagens/placa modo bridge.png'>
   <br><br>
 </div>
-# 
 
 # **EXTRA**
 
@@ -83,7 +82,6 @@ Tabela 1: Definições de endereços IPs da Rede
     
     <br>
 
-# Passo extra
   * Ping da VM1-PC1-Carolina para VM2-PC3-Ewerton
  
   ```bash
@@ -96,4 +94,4 @@ Tabela 1: Definições de endereços IPs da Rede
   $ ping 192.168.14.66
   ```
   
-   
+    > ## <a href="./Etapa 04 - AcessoRemoto.md">Próxima etapa<a/>
