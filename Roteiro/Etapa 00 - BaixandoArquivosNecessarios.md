@@ -4,25 +4,22 @@
 
 ### Passo 1 - Adquirindo o VirtualBox
 
-* Verifique a existência do VirtualBox
+- Verifique a existência do VirtualBox
   - Caso não haja, acesse o link e faça o download: https://www.virtualbox.org/wiki/Downloads
-
-
 
 ### Passo 1 - Obter o arquivo .OVA
 
-* Caso não possua o arquivo .OVA, acesse o link para download: https://we.tl/t-VnOe7GAP3U 
-  - __OBS: Você será direcionado para o `WeTransfer` onde encontrará o arquivo para executar o download.__
+- Caso não possua o arquivo .OVA, acesse o link para download: https://we.tl/t-VnOe7GAP3U
+  - **OBS: Você será direcionado para o `WeTransfer` onde encontrará o arquivo para executar o download.**
 
-### Outra forma de fazer: 
-* Verifique se os arquivos existem no diretório /labredes/images/original
-    
+### Outra forma de fazer:
+
+- Verifique se os arquivos existem no diretório /labredes/images/original
   - `mini.iso`<br>
   - `ubuntu-20.04.4-desktop-amd64.iso`<br>
   - `ubuntu-22.04-live-server-amd64.iso`<br>
-    
 
-### Pelo Terminal 
+### Pelo Terminal
 
 ```shell
 # scp faz uma cópia de um arquivo em um computador remoto para um diretório em um computador local
@@ -42,5 +39,6 @@ scp aluno@192.168.101.10:~/Public/iso-images/ubuntu-20.04.4-desktop-amd64.iso /l
 scp aluno@192.168.101.10:~/Public/iso-images/ubuntu-22.04-live-server-amd64.iso /labredes/images/original
 
 ```
+<a href="./Etapa 01 - Ambiente.md"><button name="button" style="background-color: #222d3d; color: white; padding: 15px; border: none; border-radius: 5px; font-size:16px; font-weight: 600;">Próxima etapa</button></a>
 
 
