@@ -46,6 +46,9 @@ Tabela 1: Definições de endereços IPs da Rede
 
 Figura: Configuração das NICs como modo `bridge`
   <img src='../Imagens/placa modo bridge.png'>
+# 
+
+# **EXTRA**
 
 ## Teste de conectividade entre as VMs (comando `ping`)
   ### Teste a conexão entre as VMs do mesmo PC
