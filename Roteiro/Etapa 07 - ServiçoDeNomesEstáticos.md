@@ -12,8 +12,9 @@ $ sudo nano /etc/hosts
 
 ### Passo 2 - Inserir o endereço IP, Hostname, Domínio e Apelido que estão na tabela de cada membro
 
-<img src='../Imagens/tela23.png'>
 <p>Figura 1: Configurando os nomes do host estático</p>
+<img src='../Imagens/etapa7-IP-hostname-Dom-Apel.png'>
+
 	
 * Faz-se necessário inserir em cada VM tais dados, afim de utilizar o comando:
 	
@@ -30,17 +31,29 @@ $ sudo nano /etc/hosts
 	
 	* Abaixo estão explicitadas esta inserção:
 	
-	<img src='../Imagens/tela24.png'>
-	<p>Figura 2: Inserindo o usuário Dionísio</p>
+	<div align="center">
+	  <p>Figura 2: Inserindo o usuário Dionísio</p>
+	  <img src='../Imagens/etapa7-usuario-dionísio.png'>
+	  <br><br>
+        </div>
 	
-	<img src='../Imagens/tela25.png'>
-	<p>Figura 3: Inserindo o usuário Giovana</p>
+	<div align="center">
+	  <p>Figura 3: Inserindo o usuário Giovana</p>
+	  <img src='../Imagens/etapa7-usuario-giovana.png'>
+	  <br><br>
+        </div>
 	
-	<img src='../Imagens/tela26.png'>
-	<p>Figura 4: Inserindo o usuário Carolina</p>
+	<div align="center">
+	  <p>Figura 4: Inserindo o usuário Carolina</p>
+	  <img src='../Imagens/etapa7-usuario-carolina.png'>
+	  <br><br>
+        </div>
 	
-	<img src='../Imagens/tela27.png'>
-	<p>Figura 5: Inserindo o usuário Ewerton</p>
+	<div align="center">
+	  <p>Figura 5: Inserindo o usuário Ewerton</p>
+	  <img src='../Imagens/etapa7-usuario-ewerton.png'>
+	  <br><br>
+        </div>
 	
 	### Passo 4 - Verificar os usuários criados
 	
@@ -52,8 +65,11 @@ $ sudo nano /etc/hosts
 	
 	* Segue a seguir exemplo do uso do comando:
 	
-	<img src='../Imagens/tela28.png'>
-	<p>Figura 6: Consultando os usuários adicionados</p>
+        <div align="center">
+	  <p>Figura 6: Consultando os usuários adicionados</p>
+	  <img src='../Imagens/etapa7-consultando-usuarios-add.png'>
+	  <br><br>
+        </div>
 	
 	## Utilizando o SSH na prática via Domínio
 	
@@ -62,8 +78,11 @@ $ sudo nano /etc/hosts
 	```bash
 	$ ssh <NomeDoUsuario>@<hostname|fqdn>
 	```
-	<img src='../Imagens/tela29.png'>
-	<p>Figura 7: Acessando o usuário Carolina da VM1 do PC3-Ewerton</p>
+	<div align="center">
+	  <p>Figura 7: Acessando o usuário Carolina da VM1 do PC3-Ewerton</p>
+	  <img src='../Imagens/etapa7-acess-usu-carolina-do-pc3.png'>
+	  <br><br>
+        </div>
 	
 	<br>
 	
