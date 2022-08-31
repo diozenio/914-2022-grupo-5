@@ -34,7 +34,7 @@ $ sudo nano /etc/netplan/01-netcfg.yaml
 
 <div align="center">
   <p>Figura 4 - Configurando netplan</p>
-  <img src="../Imagens/netplan-adaptador2.png" />
+  <img src="../Imagens/etapa5-configurando-adaptador2.png" />
   <br><br>
 </div>
 
