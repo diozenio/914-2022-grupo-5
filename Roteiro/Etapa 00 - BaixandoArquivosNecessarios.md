@@ -39,6 +39,5 @@ scp aluno@192.168.101.10:~/Public/iso-images/ubuntu-20.04.4-desktop-amd64.iso /l
 scp aluno@192.168.101.10:~/Public/iso-images/ubuntu-22.04-live-server-amd64.iso /labredes/images/original
 
 ```
-<button name="button" style="background-color: #222d3d; color: white; padding: 15px; border: none; border-radius: 5px; font-size:16px; font-weight: 600;">Próxima etapa</button>
 
-
+> ## <a href="./Etapa 01 - Ambiente.md">Próxima etapa<a/>
