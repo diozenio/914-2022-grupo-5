@@ -33,7 +33,7 @@ Tabela 1: Definições de endereços IPs da Rede
   * Abra as configurações de cada VM e mude sua configuraão para `Placa em modo bridge` e seu nome para `eno1`
 
 <div align="center">
-  <p>Figura 2: Configuração das NICs como modo `bridge`</p>
+  <p>Figura 1: Configuração das NICs como modo `bridge`</p>
   <img src='../Imagens/placa modo bridge.png'>
   <br><br>
 </div>
