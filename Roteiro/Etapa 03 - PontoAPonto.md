@@ -11,7 +11,7 @@
   > __OBS: Foram criadas 8 máquinas virtuais. No entanto, para esse teste foi estabelecido uma conexão dentro do VirtualBox entre duas máquinas.__
 
 
-  <p><center> Figura 2: Topologia de Rede Ponto a Ponto usando o VitualBox, com duas VMs com suas NICs em modo Rede Interna</center></p>   
+  <p><center> Figura 1: Topologia de Rede Ponto a Ponto usando o VitualBox, com duas VMs com suas NICs em modo Rede Interna</center></p>   
     <img src="figuresBridgeNetwork/BridgeNetwork.png" alt=""
     title="Figura 2: Topologia de Rede" width="500" height="auto" />
 
@@ -44,8 +44,11 @@ Tabela 1: Definições de endereços IPs da Rede
 ## Configurando a rede `bridge` do VirtualBox nos PCs e nas VMs
   * Abra as configurações de cada VM e mude sua configuraão para `Placa em modo bridge` e seu nome para `eno1`
 
-Figura: Configuração das NICs como modo `bridge`
+<div align="center">
+  <p>Figura 2: Configuração das NICs como modo `bridge`</p>
   <img src='../Imagens/placa modo bridge.png'>
+  <br><br>
+</div>
 # 
 
 # **EXTRA**
@@ -80,6 +83,7 @@ Figura: Configuração das NICs como modo `bridge`
     
     <br>
 
+# Passo extra
   * Ping da VM1-PC1-Carolina para VM2-PC3-Ewerton
  
   ```bash
