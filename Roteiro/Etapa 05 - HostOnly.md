@@ -6,13 +6,13 @@
 
 <div align="center">
   <p>Figura 1 - Configurando o adaptador vboxnet0</p>
-  <img src="../Imagens/network-manager.png" />
+  <img src="../Imagens/etapa5-configurando-adaptador.png" />
   <br><br>
 </div>
 
 <div align="center">
   <p>Figura 2 - Configurando o DHCP4 do adaptador vboxnet0</p>
-  <img src="../Imagens/hostonly-dhcp4.png" />
+  <img src="../Imagens/etapa5-configurando-dhcp4.png.png" />
   <br><br>
 </div>
 
@@ -21,7 +21,7 @@
 
 <div align="center">
   <p>Figura 3 - Configurando o adaptador 2 na VM</p>
-  <img src="../Imagens/adaptador2.png" />
+  <img src="../Imagens/etapa5-configurando-adaptador2.png" />
   <br><br>
 </div>
 
@@ -53,7 +53,7 @@ $ ssh administrador@192.168.56.101
 
 <div align="center">
   <p>Figura 5 - Acessando a VM 2</p>
-  <img src="../Imagens/acessando-hostonly.png" />
+  <img src="../Imagens/etapa5-acessando-hostonly.png" />
   <br><br>
 </div>
 
@@ -68,7 +68,7 @@ $ ssh administrador@<ip.da.vm.destino>
 
 <div align="center">
   <p>Figura 6 - Acessando a VM do outro computador conectado</p>
-  <img src="../Imagens/hostonly-computador2.png" />
+  <img src="../Imagens/etapa5-hostonly-computador2.png" />
   <br><br>
 </div>
 
