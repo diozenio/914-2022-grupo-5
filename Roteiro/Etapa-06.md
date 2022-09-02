@@ -82,4 +82,4 @@ $ ssh <user>@<hostname|fqdn|alias>
 
 <br>
 
-> ## <a href="../README.md">Voltar ao roteiro</a>
+>  ## <a href="./Etapa-07.md">Próxima etapa</a>
