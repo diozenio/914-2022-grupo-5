@@ -35,7 +35,7 @@ Giovana   |   VM2-PC4-Giovana  | 192.168.14.72 | giovana2 | grupo5-914.ifalara.n
 
 ## Topologia da rede
 
-<img src="Imagens/TopologiadeRede.png" />
+<img src="Imagens/TopologiadeRede.1.png" />
 
 
 ## Passo a passo
