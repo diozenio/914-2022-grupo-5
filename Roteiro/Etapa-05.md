@@ -75,4 +75,4 @@ $ ssh administrador@<ip.da.vm.destino>
   <br><br>
 </div>
 
-> ## <a href="./6.md">Próxima etapa</a>
+> ## <a href="./Etapa-06.md">Próxima etapa</a>

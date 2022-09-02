@@ -128,4 +128,4 @@ scp aluno@192.168.101.10:~/Public/iso-images/ubuntu-22.04-live-server-amd64.iso 
 
 ```
 
-> ## <a href="./2.md">Próxima etapa</a>
+> ## <a href="./Etapa-02.md">Próxima etapa</a>

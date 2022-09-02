@@ -40,4 +40,4 @@ Giovana   |   VM2-PC4-Giovana  | 192.168.14.72 | giovana2 | grupo5-914.ifalara.n
 
 ## Passo a passo
 
-Também criamos um roteiro para ajudar na criação e configuração das máquinas. <a href="./Roteiro/1.md">Clique aqui para começar.</a>
+Também criamos um roteiro para ajudar na criação e configuração das máquinas. <a href="./Roteiro/Etapa-01.md">Clique aqui para começar.</a>
