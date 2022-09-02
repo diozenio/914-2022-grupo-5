@@ -11,7 +11,7 @@
 ``` 
 
 * logar com o usuário ``redes`` 
-* senha ``admin@Lab92`` (para alunos do IFAL)
+* senha ``**********`` (para alunos do IFAL)
 
 ```bash
 $ su redes
