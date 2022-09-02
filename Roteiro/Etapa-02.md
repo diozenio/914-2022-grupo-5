@@ -24,11 +24,11 @@
    * Usuário da VM: `administrador`
    * Senha da VM: `adminifal` 
 
-    <div align="center">
+  <div align="center">
   <p>Figura 2 - Abra as duas máquinas virtuais criadas</p>
   <img src='../Imagens/etapa2-criandomv.5.png'>
   <br><br>
-   </div>
+  </div>
 
   * Após fazer o login, **INSTALE** o pacote Net Tools nas VMs
   ```bash
