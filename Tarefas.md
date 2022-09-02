@@ -8,9 +8,10 @@
 
 # Passos
 
-- [ ] Configuração do computador
-- [ ] Configuração e criação no VBox
-- [ ] Instalação dentro das VM's
-- [ ] SSH / Hostonly
-- [ ] Criação de usuários
+- [ ] Configuração do computador (criação de pastas, configuração do usuário administrador, permissões, baixar o ova, baixar o virtualbox)
+- [ ] Configuração e criação no VBox (criação das vms, configuração do adaptador de rede das duas vms, todos os downloads que precisam de internet)
+- [ ] Conexão dos cabos
+- [ ] SSH
+- [ ] Hostonly
+- [ ] Criação de usuários, aliases, domínios, etc
 - [ ] Conexão de todos os computadores
